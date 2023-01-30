@@ -20,10 +20,11 @@
 
 ## Main objectives ##
 
+ Client-Server architecture
+ 
 ### YT VIDEO ###
 [![TCP-IP-RasprberryLabview](https://i.ytimg.com/vi/nM6ZQ1Trc7o/hqdefault.jpg)](https://www.youtube.com/watch?v=nM6ZQ1Trc7o&ab)
 
- Client-Server architecture
 
 ### Server - Raspberry Pi 4B ###
 
