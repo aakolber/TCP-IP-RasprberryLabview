@@ -45,7 +45,7 @@
 - 3x 1k1Ω
 - LED: red, yellow, green
 
-![electrical](raspberry/electrical.png)
+![electrical](Raspberry/electrical.png)
 
 ---
 
