@@ -21,7 +21,7 @@
 ## Main objectives ##
 
 ### YT VIDEO ###
-[![TCP-IP-RasprberryLabview](https://img.youtube.com/vi/nM6ZQ1Trc7o&ab)](https://www.youtube.com/watch?v=nM6ZQ1Trc7o&ab)
+[![TCP-IP-RasprberryLabview](https://i.ytimg.com/vi/nM6ZQ1Trc7o/hqdefault.jpg)](https://www.youtube.com/watch?v=nM6ZQ1Trc7o&ab)
 
  Client-Server architecture
 
