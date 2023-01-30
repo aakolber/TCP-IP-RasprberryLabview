@@ -21,8 +21,7 @@
 ## Main objectives ##
 
 ### YT VIDEO ###
-<iframe width="1903" height="768" src="https://www.youtube.com/embed/nM6ZQ1Trc7o" title="Raspberry Pi - LabView TCP/IP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+![YT](https://i.ytimg.com/vi/nM6ZQ1Trc7o/hqdefault.jpg)(https://www.youtube.com/embed/nM6ZQ1Trc7o)
 
  Client-Server architecture
 
